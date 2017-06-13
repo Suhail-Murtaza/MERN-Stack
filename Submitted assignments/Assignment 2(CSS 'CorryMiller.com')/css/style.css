@@ -1,0 +1,252 @@
+body{
+  margin: 0;
+  border-top-style:solid;
+  border-top-width: 15px;
+  border-top-color: #0087E2;
+  background-color: WhiteSmoke;
+}
+#divintro{
+  padding-left: 300px;
+  padding-right: 0;
+  margin-top: 0;
+  padding-top: 0;
+}
+#divimg{
+  padding-left: 230px;
+  margin-left: 0px;
+  height: 120px;
+  /*background-color: yellow;*/
+}
+#heading1{
+  font-size:50px;
+  font-family: 'Roboto', sans-serif;
+  color:#333333;
+  margin-bottom: 0;
+  padding: 0 auto;
+}
+#heading2{
+  color: dimgray;
+  margin-top: 0;
+  font-family: 'Raleway', sans-serif;
+  font-size: 16px;
+}
+#image{
+  border-radius: 50%;
+}
+
+.introimgdiv{
+  margin-top: 40px;
+  display:inline-block;
+  width:400px;
+}
+#divnav{
+  border-color: #e6e6e6;
+  border-width: 3px;
+  border-style: solid;
+  margin-top: 100px;
+  margin-left: 270px;
+  margin-right: 300px;
+  padding:30px 50px 30px 50px;
+  background-color: white;
+  width: 700px;
+}
+.list{
+  display: inline-block;
+  padding-left: 35px;
+  font-family: 'Raleway', sans-serif;
+}
+.nav{
+  text-decoration: none;
+  color: dimgray;
+}
+.nav:hover{
+  color: #0087E2;
+}
+section{
+  width: 800px;
+  border-color: #e6e6e6;
+  border-width: 3px;
+  border-style: solid;
+  margin-top: 70px;
+  margin-left: 270px;
+  margin-right: 300px;
+  background-color: white;
+  padding-bottom: 40px;
+}
+#heading3{
+  font-size:35px;
+  font-family: 'Cabin Condensed', sans-serif;
+  color:#333333;
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.paragraph{
+  margin-top: 40px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+p{
+  font-size:25px;
+  font-family: 'Raleway', sans-serif;
+  color: dimgray;
+}
+.paralinks{
+  color:LimeGreen;
+}
+.paralinks:hover{
+  color:#0087E2;
+}
+#heading4{
+  margin-left:560px;
+  margin-top: 50px;
+  font-size:30px;
+  font-family: 'Roboto', sans-serif;
+  color:#333333;
+}
+.innercontainer{
+  display: inline-block;
+  width: 380px;
+  background-color: white;
+  border-width: 3px;
+  border-style: solid;
+  border-color: #e6e6e6;
+  margin-bottom: 15px;
+}
+#divlinkone{
+  margin-left: 270px;
+}
+#divlinktwo{
+  margin-left: 40px;
+}
+.links{
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+}
+.buttonone{
+  margin-top: 40px;
+  font-size: 30px;
+  font-family: 'Raleway', sans-serif;
+  background-color: #0087E2;
+  width: 270px;
+  height: 70px;
+  color: white;
+  border-style: hidden;
+  margin-left: 550px;
+  padding-left: 15px;
+  padding-right: 15px;
+  border-radius: 5px;
+}
+.buttonone:active{
+  /*background-color: #3e8e41;*/
+  /*box-shadow: 0 1px #666;*/
+  transform: translateY(1px) translateX(1px);
+}
+.findandfollow{
+  margin-top: 150px;
+  background-color: #333333;
+  height: 400px;
+}
+.copyright{
+  background-color: #282F33;
+  height: 130px;
+  font-family:'Lato', sans-serif;
+  font-size: 15px;
+  text-align: center;
+  color:white;
+}
+#socialsites{
+  /*background-color: green;*/
+  width:500px;
+  height: 100%;
+}
+#signup{
+  /*background-color: yellow;*/
+  width:740px;
+  height: 100%;
+  margin-top: 0px;
+}
+.findandfollowinner{
+  display: inline-block;
+  vertical-align: top;
+}
+.sites{
+  font-size: 30px;
+  color: white;
+}
+.sites:hover{
+  color: #0087E2;
+}
+#heading5{
+  color:white;
+  font-size: 30px;
+  margin-left: 200px;
+  padding-bottom: 10px;
+  margin-top:50px;
+  margin-right: 80px;
+  border-bottom-color: silver;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  margin-bottom: 20px;
+}
+.sites{
+  text-decoration: none;
+  margin-left: 200px;
+  font-size: 30px;
+  font-family:'Lato', sans-serif;
+}
+#heading6{
+  color:white;
+  font-size: 30px;
+  margin-left: 100px;
+  margin-right: 600px;
+  padding-bottom: 10px;
+  margin-top:50px;
+  margin-right: 80px;
+  border-bottom-color: silver;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+  margin-bottom: 20px;
+}
+.resume{
+  text-decoration: none;
+  color: #0087E2;
+}
+#para{
+  color:white;
+  font-size: 18px;
+  margin-left: 100px;
+  font-family:'Lato', sans-serif;
+}
+#email{
+  margin-left: 100px;
+  width: 630px;
+  height: 60px;
+  background-color: white;
+  color: gray;
+  border-style: hidden;
+  border-radius: 2px;
+  font-size: 20px;
+  text-align: center;
+}
+#buttonsubmit{
+  margin-top: 10px;
+  margin-left: 100px;
+  width: 630px;
+  height: 60px;
+  background-color: limegreen;
+  color: white;
+  border-style: hidden;
+  border-radius: 2px;
+  font-size: 20px;
+  text-align: center;
+}
+#buttonsubmit:active{
+  transform: translateY(1px) translateX(1px);
+}
+#rightsreserved{
+  color:black;
+}
+.ithemes{
+  color:#0087E2;
+}
