@@ -1,0 +1,9 @@
+.cover-img{
+  background-image: url('https://s-media-cache-ak0.pinimg.com/originals/bd/f2/11/bdf21132e077d8cb6946d2a62fc740b6.jpg');
+  height: 500px;
+}
+.img{
+  background-image: url('../image/suhail.jpg');
+  height: 100px;
+  width: 50px;
+}
