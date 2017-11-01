@@ -1,0 +1,15 @@
+.cells {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 2px dashed #000;
+}
+
+.cells:hover {
+    background-color: gray;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+}
