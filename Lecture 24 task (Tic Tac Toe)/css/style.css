@@ -1,0 +1,22 @@
+.cells {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 2px solid silver;
+}
+
+.cells:hover {
+    background-color: yellow;
+}
+
+.container,
+#paragraph {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: goldenrod;
+    font-family: "Comfortaa", sans-serif;
+    color: whitesmoke;
+}
