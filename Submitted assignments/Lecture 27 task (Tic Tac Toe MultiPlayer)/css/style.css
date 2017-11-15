@@ -1,0 +1,27 @@
+.cells {
+    text-align: center;
+    height: 100px;
+    width: 100px;
+    border: 2px solid silver;
+}
+
+.cells:hover {
+    background-color: aquamarine;
+    ;
+}
+
+.container,
+#paragraph {
+    display: flex;
+    justify-content: center;
+}
+
+body {
+    background-color: powderblue;
+    font-family: "Comfortaa", sans-serif;
+}
+
+input {
+    background-color: whitesmoke;
+    font-family: "Comfortaa", sans-serif;
+}
